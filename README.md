@@ -14,5 +14,7 @@ Small Blend. In the second table, it should yield the total weight allocated to 
 The function here takes in input in 1 of 2 ways:
   a) The user inputs one by one the ETF and the respective weight within the portfolio, clicking "q" once finished
   b) Uploading a CSV file that will automatically be calculated on and sorted through the tables
+
+Weights can be entered as either % (50%) or proportion (0.50)
   
 The goal here is to, again, provide a **quick** and easy breakdown of a portfolio without the need for any logins or 3rd party platforms. 
